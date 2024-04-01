@@ -1,4 +1,4 @@
-# simple_chassis_controller
+# simple_controller
 
 ## Installation
 
